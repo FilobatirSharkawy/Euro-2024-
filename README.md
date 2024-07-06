@@ -11,7 +11,7 @@ The project is implemented using Power Query and DAX, and the results are visual
 
 - **Total Market Value**: The combined market value of all participating countries is €11.5 billion. England has the highest market value at €1.52 billion, while Romania has the lowest at €92 million.
 - **Average Squad Age**: The Czech Republic squad has the lowest average age at 25.3 years, whereas Scotland has the highest average age at 28.2 years.
-- **Top Clubs by Player Representation**: Inter Milan and Manchester City are the clubs with the most players participating in Euro 2024.
+- **Top Clubs by Player Representation**: Inter Milan and Manchester City have the most players participating in Euro 2024, with 13 players each.
 
 ## Dashboard
 
